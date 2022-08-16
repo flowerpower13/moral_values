@@ -8,6 +8,7 @@ pip install -r requirements.txt
 
 #Instructions
 input and output folders are specified before every function in main.py (in variable "folders")
+delete ".keep" files
 
 
 #Run Code
